@@ -420,7 +420,7 @@
 			$pdo = pdo_connect($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME, $DB_TYPE, $DB_PORT);
 
 			if (!$pdo) {
-				print_error("Unable to connect to database using specified parameters.");
+				print_error("无法使用指定参数连接到数据库");
 				exit;
 			}
 

@@ -37,7 +37,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Tiny Tiny RSS</title>
+	<title>feed.Keep In Myself</title>
     <meta name="viewport" content="initial-scale=1,width=device-width" />
 
 	<script type="text/javascript">
